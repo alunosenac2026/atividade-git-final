@@ -1,0 +1,10 @@
+
+O sistema deverá permitir cadastro de usuários. 
+
+O sistema deverá permitir login. 
+
+O sistema deverá permitir alterar dados. 
+
+O sistema deverá permitir consultar informações. 
+
+O sistema deverá possuir controle de acesso.
