@@ -1,0 +1,5 @@
+ Criar tela de login 
+ Criar cadastro de usuários 
+ Criar tela inicial 
+ Implementar recuperação de senha 
+ Realizar testes 
