@@ -4,4 +4,5 @@ NOME DO ALUNO: EDERSON ZANELLA
 
 NOME DA ATIVIDADE: PRATICANDO BRANCHES E MERGE COM GIT
 
-Atividade desenvolvida no curso Desenvolvimento WEB Com IA, para fins de avaliação final da Unidade Curricular 2 Práticas DevOps em projetos WEB.
+
+Este repositório documenta a execução da Atividade Final da UC2 – Práticas DevOps em Projetos Web, do curso Desenvolvimento Web com IA. Utilizando Git e GitHub para demonstrar o gerenciamento de branches, commits, merges e resolução de conflitos.
