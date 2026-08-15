@@ -3,6 +3,9 @@ Product Owner: Ederson
 Scrum Marter: José
 
 Time de Desenvolvimento: 
+
 Front-end: Matheus
+
 Back-end: Higor
+
 Ux-Ui: Otávio 
