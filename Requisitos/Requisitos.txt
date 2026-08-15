@@ -1,10 +1,27 @@
 
-O sistema deverá permitir cadastro de usuários. 
+REQUISITOS DO PROJETO
 
-O sistema deverá permitir login. 
+Projeto: Atividade Final - Práticas DevOps em Projetos Web
 
-O sistema deverá permitir alterar dados. 
+R01 - O projeto deverá possuir um repositório no GitHub para armazenamento
+e versionamento dos arquivos da atividade.
 
-O sistema deverá permitir consultar informações. 
+R02 - O projeto deverá possuir uma branch principal denominada main.
 
-O sistema deverá possuir controle de acesso.
+R03 - O projeto deverá utilizar branches de funcionalidades para organizar
+as diferentes etapas de desenvolvimento da atividade.
+
+R04 - As alterações realizadas no projeto deverão ser registradas por meio
+de commits com mensagens que identifiquem as alterações realizadas.
+
+R05 - As alterações desenvolvidas nas branches de funcionalidades deverão
+ser integradas à branch main por meio de merge.
+
+R06 - O projeto deverá demonstrar a ocorrência de um conflito entre
+alterações realizadas em diferentes branches.
+
+R07 - O conflito identificado deverá ser resolvido antes da finalização
+do merge.
+
+R08 - O histórico do repositório deverá permitir a visualização das
+branches, commits, merges e resolução do conflito.
