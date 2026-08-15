@@ -1,8 +1,11 @@
-Product Owner: Ederson 
+EQUIPE DO PROJETO
 
-Scrum Marter: José
+Projeto: Atividade Final - Práticas DevOps em Projetos Web
 
-Time de Desenvolvimento: 
-Front-end: Matheus
-Back-end: Higor
-Ux-Ui: Otávio 
+Integrante: Ederson Zanella
+
+Papéis desempenhados:
+- Desenvolvedor
+- Analista de Sistemas
+- Responsável pelo versionamento
+- Responsável pela documentação
