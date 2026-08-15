@@ -1,5 +1,47 @@
- Criar tela de login 
- Criar cadastro de usuários 
- Criar tela inicial 
- Implementar recuperação de senha 
- Realizar testes 
+BACKLOG DO PROJETO
+
+Projeto: Atividade Final - Práticas DevOps em Projetos Web
+
+1. Configuração inicial
+- Criar o repositório atividade-git-final no GitHub.
+- Criar o arquivo README.md.
+- Adicionar as informações iniciais do projeto.
+- Realizar o primeiro commit.
+
+2. Desenvolvimento da equipe
+- Criar a branch feature-equipe.
+- Criar o arquivo equipe.txt.
+- Adicionar as informações da equipe.
+- Realizar o commit da alteração.
+- Fazer o merge da feature-equipe na main.
+
+3. Desenvolvimento dos requisitos
+- Criar a branch feature-requisitos.
+- Criar o arquivo requisitos.txt.
+- Adicionar os requisitos do projeto.
+- Realizar o commit da alteração.
+- Fazer o merge da feature-requisitos na main.
+
+4. Desenvolvimento do backlog
+- Criar a branch feature-backlog.
+- Criar o arquivo backlog.txt.
+- Adicionar as tarefas do projeto.
+- Realizar o commit da alteração.
+- Fazer o merge da feature-backlog na main.
+
+5. Simulação de conflito
+- Criar a branch feature-descricao.
+- Alterar a descrição do projeto no README.md.
+- Realizar o commit da alteração.
+- Retornar para a branch main.
+- Alterar a mesma parte do README.md.
+- Realizar um novo commit.
+- Tentar realizar o merge da feature-descricao na main.
+- Identificar o conflito apresentado pelo Git.
+
+6. Resolução do conflito
+- Analisar as alterações conflitantes.
+- Definir a versão da descrição que deverá permanecer.
+- Resolver o conflito no README.md.
+- Finalizar o merge.
+- Revisar o histórico de commits e merges.
